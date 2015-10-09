@@ -2,8 +2,7 @@
 published: true
 ---
 
-
-## A New Post
+## A Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** 
 
@@ -14,5 +13,3 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 1. **item**
 2. _item_
 3. item
-
-
