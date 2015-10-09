@@ -2,9 +2,7 @@
 published: true
 ---
 
-
-
-## A New Post
+## A New Draft
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** 
 
