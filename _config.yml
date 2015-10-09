@@ -50,4 +50,4 @@ permalink: pretty
 
 prose:
   rooturl: ""
-  ignore: ['_config.yml','includes','layouts']
+  ignore: ['_config.yml','_includes','_layouts','css','js','mail']
