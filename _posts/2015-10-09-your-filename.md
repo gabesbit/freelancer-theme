@@ -1,11 +1,12 @@
 ---
-published: true
+published: false
 ---
+
 
 
 ## A New Post
 
-D to Post
+Draft to Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
